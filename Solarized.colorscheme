@@ -1,10 +1,18 @@
 [Background]
-Color=0,0,0
-Transparency=true
+Color=0,43,54
+Transparency=false
 
 [BackgroundIntense]
-Color=0,0,0
-Transparency=true
+Color=7,54,66
+Transparency=false
+
+[Foreground]
+Color=131,148,150
+Transparency=false
+
+[ForegroundIntense]
+Color=147,161,161
+Transparency=false
 
 [Color0]
 Color=0,0,0
@@ -70,15 +78,6 @@ Transparency=false
 Color=255,255,255
 Transparency=false
 
-[Foreground]
-Color=238,232,213
-Transparency=false
-
-[ForegroundIntense]
-Bold=true
-Color=253,246,227
-Transparency=false
-
 [General]
-Description=Solarized
+Description=Solarized Dark
 Opacity=1
